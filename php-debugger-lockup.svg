@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" width="340" height="80">
+  <g transform="translate(40, 40) scale(0.52)">
+    <path d="M-20,-44 C-20,-44 -32,-44 -32,-32 L-32,-10 C-32,-2 -42,0 -48,0 C-42,0 -32,2 -32,10 L-32,32 C-32,44 -20,44 -20,44"
+          fill="none" stroke="#E24B4A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20,-44 C20,-44 32,-44 32,-32 L32,-10 C32,-2 42,0 48,0 C42,0 32,2 32,10 L32,32 C32,44 20,44 20,44"
+          fill="none" stroke="#E24B4A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="10" fill="#E24B4A"/>
+  </g>
+  <text x="80" y="36" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" fill="#1a1a1a" letter-spacing="0.5">PHP Debugger</text>
+  <text x="80" y="56" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="10" fill="#888" letter-spacing="1.5">ZERO-OVERHEAD DEBUGGING</text>
+</svg>
