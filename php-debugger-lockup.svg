@@ -7,5 +7,6 @@
     <circle cx="0" cy="0" r="10" fill="#E24B4A"/>
   </g>
   <text x="80" y="36" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" fill="#1a1a1a" letter-spacing="0.5">PHP Debugger</text>
-  <text x="80" y="56" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="10" fill="#888" letter-spacing="1.5">ZERO-OVERHEAD DEBUGGING</text>
+  <text x="80" y="53" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="9" fill="#888" letter-spacing="1.2">AGENTIC ZERO-OVERHEAD</text>
+  <text x="80" y="66" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="9" fill="#888" letter-spacing="1.2">DEBUGGING FOR PHP</text>
 </svg>
